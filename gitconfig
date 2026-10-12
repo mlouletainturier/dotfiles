@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mlou.letainturier@gmail.com
+	name = Martin-Lou Letainturier
